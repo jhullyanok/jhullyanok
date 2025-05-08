@@ -1,25 +1,35 @@
-## Olá! Eu sou o Jhullyano Keviny!
+<h1 align="center">Olá! Eu sou o Jhullyano 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: Ele/Dele
--->
+<p align="center">
+  🎯 Aprendendo Python com foco em projetos práticos <br>
+  🚀 Buscando oportunidades como freelancer <br>
+  💡 Sempre estudando e evoluindo um pouco a cada dia
+</p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=false&theme=omni"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=true" />
-</picture>
+---
 
-##
+### 🛠️ Habilidades em Desenvolvimento:
+- Python (iniciante)
+- Git e GitHub
+- Lógica de programação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyanok&layout=compact)](https://github.com/jhullyanok/github-readme-stats)
-               
-    <img <img width="48%" src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />">
-          
+### 📚 Atualmente estudando:
+- Curso em Vídeo - Python
+- Projetos práticos para portfólio
+
+### 🚧 Repositórios em construção:
+- [📌 Exercicios_Python](https://github.com/jhullyanok/Exercicios_Python) — 
+Exercícios concluídos do Curso em Vídeo do curso de Python Mundo 1!.
+---
+
+### 📈 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### ✉️ Contato
+- Email: jhullyanok@gmail.com
+- LinkedIn: [Seu perfil LinkedIn](https://linkedin.com/in/jhullyano-keviny-40a595244)
+
