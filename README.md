@@ -21,7 +21,7 @@
 ---
 
 ### 🚧 Projetos em andamento:
-- [📌 Exercicios_Python](https://github.com/jhullyanok/NomeDoProjeto) — Exercícios concluídos do Curso em Vídeo do curso de Python Mundo 1!
+- [📌 Exercicios_Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios concluídos do Curso em Vídeo do curso de Python Mundo 1!
 - [📌em breve
 
 ---
