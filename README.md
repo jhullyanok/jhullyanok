@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner do Jhullyano" />
+</p>
+
 <h1 align="center">Olá! Eu sou o Jhullyano 👋</h1>
 
 <p align="center">
@@ -6,34 +10,45 @@
   💡 Evoluindo um pouco todos os dias!
 </p>
 
----
-
-### 🐍 Linguagem atual
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 📚 Atualmente estudando:
-- Curso em Vídeo – Python
-- Lógica de programação
-- Criação de pequenos projetos para portfólio
-
----
-
-### 🚧 Projetos em andamento:
-- [📌 Exercicios_Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios concluídos do Curso em Vídeo do curso de Python Mundo 1!
-- [📌em breve
-
----
-
-### 📈 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00F5A0&center=true&vCenter=true&lines=Programando+em+Python;Resolvendo+exerc%C3%ADcios+diariamente;O+trabalho+duro+vence+o+dom+natural!" />
 </p>
 
 ---
 
-### ✉️ Contato
+## 🐍 Linguagem atual
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Curso em Vídeo – Python 🧑‍🏫  
+- Lógica de programação 🧠  
+- Criação de pequenos projetos para portfólio 🛠️
+
+---
+
+## 🚧 Projetos em andamento
+
+- [📌 Exercicios_Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios resolvidos do Curso em Vídeo – Python (Mundo 1)  
+- 📌 Em breve: mini projetos usando condicionais, loops e funções
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyanok&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✉️ Contato
 
 <p align="center">
   <a href="mailto:jhullyanok@gmail.com">
@@ -50,3 +65,8 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  <i>“O trabalho duro vence o dom natural!” 💪</i>
+</p>
