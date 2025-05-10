@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="3ed474bc-4689-46e9-ad6c-f96b88a6a392.png" />
-</p>
-
 <h1 align="center">Olá! Eu sou o Jhullyano 👋</h1>
 
 <p align="center">
