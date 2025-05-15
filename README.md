@@ -8,7 +8,6 @@
 
 ---
 
----
 ## 🐍 Linguagem atual
 
 <p align="center">
