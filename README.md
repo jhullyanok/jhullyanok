@@ -8,7 +8,9 @@
 
 ---
 
-<img align="center" alt="jhully" src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/refs/heads/main/snowfall-lofi-new-min.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/refs/heads/main/snowfall-lofi-new-min.gif" alt="jhully" width="300" />
+</p>
 
 ---
 
