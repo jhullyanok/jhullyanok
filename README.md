@@ -7,8 +7,16 @@
 </p>
 
 ---
+
 <img align="center" alt="jhully" src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/refs/heads/main/snowfall-lofi-new-min.gif">
 
+---
+
+## 🐍 Snake Commit Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -61,16 +69,8 @@
   </a>
 </p>
 
-  <a href="https://github.com/jhullyanok">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
   <i>“O trabalho duro vence o dom natural!” 💪</i>
 </p>
-
-![snake gif](https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg)
-
