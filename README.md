@@ -6,10 +6,6 @@
   💡 Evoluindo um pouco todos os dias!
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00F5A0&center=true&vCenter=true&lines=Programando+em+Python;Resolvendo+exerc%C3%ADcios+diariamente;O+trabalho+duro+vence+o+dom+natural!" />
-</p>
-
 ---
 
 ## 🐍 Linguagem atual
