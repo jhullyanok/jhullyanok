@@ -8,6 +8,9 @@
 
 ---
 
+<img align="right" alt="jhully" src="https://github.com/jhullyanok/jhullyanok/blob/04ed89d742e79fc575b04927ac11c2f9ca2dacc4/snowfall_lofi_new.gif" width="300" />
+
+---
 ## 🐍 Linguagem atual
 
 <p align="center">
