@@ -12,19 +12,14 @@
 
 ---
 
-## 🐍 Snake Commit Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p
+![snake gif](https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
 
-## 🐍 Linguagem atual
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+![snake gif](https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
