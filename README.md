@@ -9,27 +9,45 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/refs/heads/main/snowfall-lofi-new-min.gif" alt="jhully" width="300" />
+  <img src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/refs/heads/main/snowfall-lofi-new-min.gif" alt="gif lo-fi" width="300" />
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+## 🧠 Sobre mim
 
-- Curso em Vídeo – Python 🧑‍🏫  
-- Lógica de programação 🧠  
-- Criação de pequenos projetos para portfólio 🛠️
+- 🐍 Apaixonado por Python e por transformar ideias em código
+- 💻 Aprendendo todos os dias com pequenos projetos
+- 🎨 Criando um portfólio que reflete minha evolução
+- 🔎 Explorando o mundo da programação de forma prática
+
+---
+
+## 🧰 Minhas Skills (em construção)
+
+| Tecnologia | Nível |
+|------------|-------|
+| 🐍 Python   | █████░░░░░ 50% |
+| 🧠 Lógica   | ████░░░░░░ 40% |
+| 🔧 Git      | ██░░░░░░░░ 20% |
+| 🌐 HTML/CSS | █░░░░░░░░░ 10% |
 
 ---
 
 ## 🚧 Projetos em andamento
 
-- [📌 Exercícios Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios resolvidos do Curso em Vídeo – Python (Mundo 1)  
+- [📌 Exercícios Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios resolvidos do Curso em Vídeo – Python  
 - [📌 Gerador de Senhas](https://github.com/jhullyanok/Gerador-Senhas) — Gerador de senhas seguras
 
 ---
 
-## 📈 Estatísticas
+<p align="center">
+  <img src="https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+## 📈 Estatísticas GitHub
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=true&theme=tokyonight" />
@@ -60,10 +78,3 @@
 <p align="center">
   <i>“O trabalho duro vence o dom natural!” 💪</i>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
