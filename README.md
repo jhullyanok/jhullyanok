@@ -7,6 +7,10 @@
 </p>
 
 ---
+<img align="center" alt="jhully" src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/refs/heads/main/snowfall-lofi-new-min.gif">
+
+
+---
 
 ## 🐍 Linguagem atual
 
