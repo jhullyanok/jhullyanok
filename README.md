@@ -12,10 +12,6 @@
 
 ---
 
-![snake gif](https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📚 Atualmente estudando
 
 - Curso em Vídeo – Python 🧑‍🏫  
@@ -62,3 +58,10 @@
 <p align="center">
   <i>“O trabalho duro vence o dom natural!” 💪</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
