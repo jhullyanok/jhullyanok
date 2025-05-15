@@ -26,8 +26,8 @@
 
 ## 🚧 Projetos em andamento
 
-- [📌 Exercicios_Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios resolvidos do Curso em Vídeo – Python (Mundo 1)  
-- 📌 Em breve: mini projetos usando condicionais, loops e funções
+- [📌 Exercicios Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios resolvidos do Curso em Vídeo – Python (Mundo 1)  
+- [📌 Gerador de Senhas](https://github.com/jhullyanok/Gerador-Senhas) - Gerador de Senhas Seguras
 
 ---
 
