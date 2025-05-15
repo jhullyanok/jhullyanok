@@ -9,45 +9,39 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/refs/heads/main/snowfall-lofi-new-min.gif" alt="gif lo-fi" width="300" />
+  <img align="center" alt="jhully-gif" src="https://raw.githubusercontent.com/jhullyanok/jhullyanok/main/snowfall-lofi-new-min.gif" width="700px">
 </p>
 
 ---
 
-## 🧠 Sobre mim
+### 🧰 Tecnologias que estou aprendendo
 
-- 🐍 Apaixonado por Python e por transformar ideias em código
-- 💻 Aprendendo todos os dias com pequenos projetos
-- 🎨 Criando um portfólio que reflete minha evolução
-- 🔎 Explorando o mundo da programação de forma prática
-
----
-
-## 🧰 Minhas Skills (em construção)
-
-| Tecnologia | Nível |
-|------------|-------|
-| 🐍 Python   | █████░░░░░ 50% |
-| 🧠 Lógica   | ████░░░░░░ 40% |
-| 🔧 Git      | ██░░░░░░░░ 20% |
-| 🌐 HTML/CSS | █░░░░░░░░░ 10% |
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-## 🚧 Projetos em andamento
+### 📚 Atualmente estudando
 
-- [📌 Exercícios Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios resolvidos do Curso em Vídeo – Python  
+- Curso em Vídeo – Python 🧑‍🏫  
+- Lógica de programação 🧠  
+- Criação de pequenos projetos para portfólio 🛠️
+
+---
+
+### 🚧 Projetos em andamento
+
+- [📌 Exercícios Python](https://github.com/jhullyanok/Exercicios_Python) — Exercícios resolvidos do Curso em Vídeo – Python (Mundo 1)  
 - [📌 Gerador de Senhas](https://github.com/jhullyanok/Gerador-Senhas) — Gerador de senhas seguras
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-## 📈 Estatísticas GitHub
+### 📈 Estatísticas
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhullyanok&show_icons=true&theme=tokyonight" />
@@ -56,7 +50,14 @@
 
 ---
 
-## ✉️ Contato
+<p align="center">
+  <img src="https://github.com/Jhullyanok/Jhullyanok/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+
+---
+
+### ✉️ Contato
 
 <p align="center">
   <a href="mailto:jhullyanok@gmail.com" target="_blank" rel="noopener noreferrer">
