@@ -19,10 +19,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Publicar no branch output
+            - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          committer: Jhullyano <jhullyanok@gmail.com>
+          commit_message: "Atualizando cobrinha"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+
