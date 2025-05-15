@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-  <img alt="Jhullyano" src="https://i.imgur.com/E5Sha1e.gif" width="300" />
-</p>
-
----
-
 ## 🐍 Linguagem atual
 
 <p align="center">
