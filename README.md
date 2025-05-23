@@ -1,5 +1,9 @@
 <h1 align="center">Olá! Eu sou o Jhullyano 👋</h1>
 
+<h2 align="center">Bem-vindo ao meu repositório!
+
+  ---
+  
 <p align="center">
   🎯 Estudando <strong>Python</strong> com foco em projetos práticos<br>
   🚀 Em busca de experiência como <strong>freelancer</strong><br>
